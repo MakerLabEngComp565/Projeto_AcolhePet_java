@@ -2,12 +2,16 @@
 
 ## Descrição
 
-Este projeto foi desenvolvido como parte de uma atividade acadêmica, com o objetivo de aplicar conceitos de Programação Orientada a Objetos (POO) em Java.
+Este projeto foi desenvolvido como parte de uma atividade acadêmica, com o objetivo de aplicar conceitos de Programação Orientada a Objetos (POO) em Java. E  tem como objetivo incentivar a adoção responsável de animais, conectando pessoas interessadas a pets que precisam de um novo lar.
 
 O sistema simula um processo simples de adoção de animais, permitindo o cadastro de pessoas, cadastro de animais e o registro de adoções.
 
 ---
+## Sobre o projeto
 
+A iniciativa busca reduzir o número de animais abandonados, promovendo a adoção consciente e oferecendo informações importantes sobre cuidados, responsabilidade e bem-estar animal.
+
+---
 ## Estrutura do Projeto
 
 O projeto está organizado em três camadas:
