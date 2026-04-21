@@ -64,7 +64,7 @@ O projeto foi desenvolvido seguindo os requisitos propostos, incluindo:
 
 * Uso de atributos privados
 * Implementação de getters e setters
-* Sobrescrita do método toString()
+* Uso do método toString() para exibir os dados dos objetos
 * Utilização de listas (ArrayList) nos serviços
 
 ---
