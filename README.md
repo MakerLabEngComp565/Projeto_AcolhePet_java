@@ -1,5 +1,6 @@
 # Sistema de Adoção de Animais
 
+---
 ## Descrição
 
 Este projeto foi desenvolvido como parte de uma atividade acadêmica, com o objetivo de aplicar conceitos de Programação Orientada a Objetos (POO) em Java. E  tem como objetivo incentivar a adoção responsável de animais, conectando pessoas interessadas a pets que precisam de um novo lar.
