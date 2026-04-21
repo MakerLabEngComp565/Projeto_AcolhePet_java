@@ -24,9 +24,9 @@ A iniciativa busca reduzir o número de animais abandonados, promovendo a adoç�
 
 O projeto está organizado em três camadas:
 
-* model: classes que representam as entidades do sistema (Pessoa, Animal, Adocao)
-* service: classes responsáveis pelas regras de negócio e armazenamento dos dados (utilizando ArrayList)
-* view: classe principal (Main), responsável pela execução do sistema
+* Model: classes que representam as entidades do sistema (Pessoa, Animal, Adocao)
+* Service: classes responsáveis pelas regras de negócio e armazenamento dos dados (utilizando ArrayList)
+* View: classe principal (Main), responsável pela execução do sistema
 
 ---
 
@@ -38,7 +38,7 @@ O projeto está organizado em três camadas:
 * Atualização do status do animal
 * Filtro por tipo de animal
 * Contato com responsáveis / ONG
-* informações detalhadas (idade, porte, saúde, etc.)
+* Informações detalhadas (idade, porte, saúde, etc.)
 
 ---
 
