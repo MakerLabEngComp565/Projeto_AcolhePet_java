@@ -9,7 +9,9 @@ O sistema simula um processo simples de adoção de animais, permitindo o cadast
 ---
 ## Sobre o projeto
 
-A iniciativa busca reduzir o número de animais abandonados, promovendo a adoção consciente e oferecendo informações importantes sobre cuidados, responsabilidade e bem-estar animal.
+A iniciativa busca reduzir o número de animais abandonados, 
+promovendo a adoção consciente e oferecendo informações importantes sobre cuidados, 
+responsabilidade e bem-estar animal.
 
 ---
 ## Objetivo
