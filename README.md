@@ -35,6 +35,9 @@ O projeto está organizado em três camadas:
 * Cadastro de animais
 * Registro de adoção
 * Atualização do status do animal
+* Filtro por tipo de animal
+* Contato com responsáveis / ONG
+* informações detalhadas (idade, porte, saúde, etc.)
 
 ---
 
