@@ -12,7 +12,7 @@ public class Adocao {
  @Override
 public String toString() {
     return "Adoção -> Pessoa: " + pessoa.getNome() +
-           " | Animal: " + animal.toString();
+           " | " + animal.toString();
 }
 }
 
