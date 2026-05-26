@@ -74,7 +74,10 @@ O projeto foi desenvolvido seguindo os requisitos propostos, incluindo:
 Desenvolvido para fins acadêmicos.
 
 ---
-Atualização
+ ![Uploading icons8-atualizar-24.png…]() 
+## Atualização
+---
+
 ---
 ## Descrição
 
