@@ -71,12 +71,11 @@ O projeto foi desenvolvido seguindo os requisitos propostos, incluindo:
 ---
 
 ## Autor
-
 Desenvolvido para fins acadêmicos.
+
 ---
-
 Atualização
-
+---
 ## Descrição
 
 Este projeto foi desenvolvido como parte de uma atividade acadêmica, com o objetivo de aplicar conceitos de Programação Orientada a Objetos (POO) em Java.
