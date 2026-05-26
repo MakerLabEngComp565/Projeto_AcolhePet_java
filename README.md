@@ -74,7 +74,7 @@ O projeto foi desenvolvido seguindo os requisitos propostos, incluindo:
 Desenvolvido para fins acadêmicos.
 
 ---
-## Atualização  🔄️
+## Atualização 1 🔄️
 ---
 
 ## Descrição
