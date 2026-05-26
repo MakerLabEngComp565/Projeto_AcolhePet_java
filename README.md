@@ -73,3 +73,64 @@ O projeto foi desenvolvido seguindo os requisitos propostos, incluindo:
 ## Autor
 
 Desenvolvido para fins acadêmicos.
+---
+
+Atualização
+
+---
+
+## Descrição
+
+Este projeto foi desenvolvido como parte de uma atividade acadêmica, com o objetivo de aplicar conceitos de Programação Orientada a Objetos (POO) em Java.
+
+O sistema AcolhePet tem como objetivo incentivar a adoção responsável de animais, conectando pessoas interessadas a pets que precisam de um novo lar.
+
+O sistema simula um processo simples de adoção de animais, permitindo:
+- cadastro de pessoas
+- cadastro de animais
+- registro de adoções
+- gerenciamento das informações do sistema
+
+---
+
+# Sobre o Projeto
+
+A iniciativa busca reduzir o número de animais abandonados, promovendo a adoção consciente e oferecendo informações importantes sobre:
+- responsabilidade
+- cuidados com os animais
+- bem-estar animal
+
+---
+
+# Objetivos
+
+- Diminuir o abandono de animais
+- Facilitar o processo de adoção
+- Conscientizar sobre guarda responsável
+- Aplicar conceitos de Programação Orientada a Objetos
+- Simular um sistema CRUD simples em Java
+
+---
+
+# Estrutura do Projeto
+
+O projeto está organizado em três camadas:
+
+## Model
+Classes que representam as entidades do sistema:
+- Pessoa
+- Responsavel
+- Animal
+- Adocao
+
+---
+
+## Service
+Classes responsáveis pelas regras de negócio e manipulação dos dados:
+- PessoaService
+- AnimalService
+- AdocaoService
+
+Utilizando:
+```java
+ArrayList
