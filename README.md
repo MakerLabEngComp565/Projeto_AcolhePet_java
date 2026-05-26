@@ -74,7 +74,8 @@ O projeto foi desenvolvido seguindo os requisitos propostos, incluindo:
 Desenvolvido para fins acadêmicos.
 
 ---
-## Atualização
+ <img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/ba62e962-cec9-4cd0-8df8-454daaa12704" />  
+ ## Atualização
 ---
 
 ---
