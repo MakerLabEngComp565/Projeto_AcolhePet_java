@@ -198,7 +198,7 @@ O projeto está organizado nos seguintes pacotes:
 * `service`: Regras de negócio, incluindo a gestão de pessoas.
 
 ---
-## Atualização 2 🔄️
+## Atualização 3 🔄️
 ---
 
   ## 🛠 Tecnologias Utilizadas
