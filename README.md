@@ -1,6 +1,8 @@
 # AcolhePet 🐾
 
-Este projeto tem como objetivo incentivar a adoção responsável de animais, conectando pessoas interessadas a pets que precisam de um novo lar.
+Este projeto tem como objetivo incentivar a adoção responsável e combater o abandono de **cães e gatos**, conectando animais em situação de vulnerabilidade a pessoas que desejam lhes oferecer um novo lar.
+
+---
 
 ## 🚀 Como Executar (Versão Atual)
 Atualmente, o projeto utiliza uma Interface Gráfica (GUI) desenvolvida com Java Swing.
