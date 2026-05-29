@@ -166,3 +166,33 @@ Utilizando:
 
 Para rodar este projeto, você precisará ter instalado em sua máquina:
 - **JDK** (Java Development Kit) 8 ou superior.
+
+---
+
+### Menu do Usuário
+* **Listar Animais:** Visualização de animais disponíveis para adoção, com filtro de status.
+* **Registrar Adoção:** Cadastro de adotante com validações rigorosas de e-mail e telefone.
+* **Cancelar Adoção:** Funcionalidade para reverter processos de adoção.
+
+---
+
+### Área Administrativa
+* **Gerenciamento de Animais:** Cadastro, listagem geral e remoção de animais do sistema.
+* **Gestão de Adoções:** Listagem completa de todas as adoções realizadas no sistema e remoção de registros.
+
+---
+
+## 🛠 Tecnologias e Conceitos
+* **Linguagem:** Java
+* **Arquitetura:** MVC (Model-View-Controller)
+* **Validações:** Uso de `Regex` (Expressões Regulares) para validação de dados de entrada.
+* **Interface:** Console interativo com suporte a cores ANSI para melhor legibilidade.
+
+---
+
+## 📂 Estrutura do Projeto
+O projeto está organizado nos seguintes pacotes:
+* `view`: Interface de usuário no console.
+* `controller`: Lógica de controle para animais e adoções.
+* `model`: Entidades do sistema (Animal, Pessoa, Adocao).
+* `service`: Regras de negócio, incluindo a gestão de pessoas.
