@@ -196,3 +196,14 @@ O projeto está organizado nos seguintes pacotes:
 * `controller`: Lógica de controle para animais e adoções.
 * `model`: Entidades do sistema (Animal, Pessoa, Adocao).
 * `service`: Regras de negócio, incluindo a gestão de pessoas.
+
+---
+## Atualização 2 🔄️
+---
+
+  ## 🛠 Tecnologias Utilizadas
+
+* **Linguagem:** Java
+* **Biblioteca de GUI:** Java Swing
+* **Arquitetura:** MVC (Model-View-Controller)
+* **Validadores:** Regex (Expressões Regulares)
