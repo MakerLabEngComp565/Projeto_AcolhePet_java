@@ -130,5 +130,39 @@ Classes responsáveis pelas regras de negócio e manipulação dos dados:
 - AdocaoService
 
 Utilizando:
-```java
-ArrayList
+```java ```
+``` ArrayList ```
+
+---
+## Atualização 2 🔄️
+---
+
+
+## 🚀 Funcionalidades
+
+### Usuário
+- **Listar Animais:** Visualização de todos os animais disponíveis para adoção.
+- **Registrar Adoção:** Interface para adotar um animal, com validações de dados (nome, e-mail, telefone).
+- **Cancelar Adoção:** Opção para remover um registro de adoção existente.
+
+### Área Administrativa
+- **Cadastro de Animais:** Registro de novos animais no sistema (ID, Nome, Tipo, Raça, Idade, Vacinação).
+- **Listagem Completa:** Visualização de todos os animais cadastrados.
+- **Gerenciamento de Adoções:** Listagem de todas as adoções realizadas.
+- **Exclusão:** Possibilidade de remover animais ou cancelar registros de adoção específicos.
+
+---
+
+## 🛠 Tecnologias Utilizadas
+
+- **Linguagem:** Java
+- **Paradigma:** Orientação a Objetos
+- **Interface:** Console (CLI - Command Line Interface)
+- **Validações:** Regex para e-mail, telefone e formatos de texto.
+
+---
+
+## 📋 Pré-requisitos
+
+Para rodar este projeto, você precisará ter instalado em sua máquina:
+- **JDK** (Java Development Kit) 8 ou superior.
