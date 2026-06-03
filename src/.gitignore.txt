@@ -1,0 +1,21 @@
+# Pastas geradas pelo compilador
+/out/
+/build/
+/target/
+
+# Pastas de configuração de IDEs
+.idea/
+.settings/
+.vscode/
+.project
+.classpath
+*.iml
+
+# Arquivos temporários e logs
+*.log
+*.tmp
+*.bak
+
+# Arquivos de sistema
+.DS_Store
+Thumbs.db
