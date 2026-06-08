@@ -2,6 +2,8 @@
 /out/
 /build/
 /target/
+/bin/
+*.class
 
 # Pastas de configuração de IDEs
 .idea/
