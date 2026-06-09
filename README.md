@@ -32,6 +32,7 @@ Abaixo, a evolução do sistema ao longo das etapas acadêmicas:
 * Implementação do padrão MVC com `AnimalController` e `AdocaoController`.
 * Adição de validações rigorosas com Regex para e-mail e telefone.
 * Interface de console interativa com uso de cores ANSI para melhor legibilidade.
+* **[Inclusão Técnica]:** Separação clara de pacotes (`view`, `controller`, `model`, `service`), blindagem do menu com tratamento de exceções (`NumberFormatException` e `try-catch` genérico) e criação de métodos estáticos dedicados para validação de dados de entrada (`validarEmail`, `validarTelefone` e `apenasLetras`).
 
 ### 🔄 Atualização 3: Migração para Interface Gráfica (Atual)
 * Desenvolvimento da `JanelaPrincipal` utilizando Java Swing.
