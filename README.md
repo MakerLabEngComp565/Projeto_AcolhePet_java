@@ -32,9 +32,13 @@ Abaixo, a evolução do sistema ao longo das etapas acadêmicas:
 * Implementação do padrão MVC com `AnimalController` e `AdocaoController`.
 * Adição de validações rigorosas com Regex para e-mail e telefone.
 * Interface de console interativa com uso de cores ANSI para melhor legibilidade.
-* **[Inclusão Técnica]:** Separação clara de pacotes (`view`, `controller`, `model`, `service`), blindagem do menu com tratamento de exceções (`NumberFormatException` e `try-catch` genérico) e criação de métodos estáticos dedicados para validação de dados de entrada (`validarEmail`, `validarTelefone` e `apenasLetras`).
 
-### 🔄 Atualização 3: Migração para Interface Gráfica (Atual)
+### 🔄 Atualização 3: Proteções Robustas e Listagens no Console (CLI)
+* **Blindagem com try-catch:** Implementação de blocos de tratamento de exceções robustos para capturar e tratar falhas de digitação (`NumberFormatException` e `Exception` genérica), evitando a quebra do sistema durante entradas de dados numéricos (como IDs e idade) na área administrativa e no fluxo de adoção.
+* **Exibição Dinâmica de Listas:** Inclusão de relatórios e listagens automáticas logo antes dos comandos de remoção e adoção, garantindo que o usuário veja as informações e IDs corretos antes de responder às perguntas do sistema.
+* **Mecanismo Seguro de Remoção:** Implementação de lógica rigorosa que valida e cruza os dados fornecidos pelo usuário com os registros existentes antes de concluir operações críticas como exclusão de animais ou cancelamento de adoções.
+
+### 🔄 Atualização 4: Migração para Interface Gráfica (Atual)
 * Desenvolvimento da `JanelaPrincipal` utilizando Java Swing.
 * Substituição das interações via terminal por janelas (`JOptionPane`) e abas (`JTabbedPane`).
 * O sistema agora conta com uma visualização de área de texto dedicada para listagens.
