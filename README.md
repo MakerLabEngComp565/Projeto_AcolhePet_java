@@ -38,10 +38,7 @@ Abaixo, a evolução do sistema ao longo das etapas acadêmicas:
 * **Exibição Dinâmica de Listas:** Inclusão de relatórios e listagens automáticas logo antes dos comandos de remoção e adoção, garantindo que o usuário veja as informações e IDs corretos antes de responder às perguntas do sistema.
 * **Mecanismo Seguro de Remoção:** Implementação de lógica rigorosa que valida e cruza os dados fornecidos pelo usuário com os registros existentes antes de concluir operações críticas como exclusão de animais ou cancelamento de adoções.
 
-### 🔄 Atualização 4: Migração para Interface Gráfica (Atual)
-* Desenvolvimento da `JanelaPrincipal` utilizando Java Swing.
-* Substituição das interações via terminal por janelas (`JOptionPane`) e abas (`JTabbedPane`).
-* O sistema agora conta com uma visualização de área de texto dedicada para listagens.
+
 
 ---
 *Projeto desenvolvido para fins acadêmicos.*
